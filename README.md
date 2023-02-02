@@ -77,6 +77,12 @@ Login UI validation.
 
 If the user does not have an account, they can create one, which is stored in the backend.
 
+![Screenshot (241)](https://user-images.githubusercontent.com/86250122/216404309-0a7d28c0-8481-4723-9b0a-33b51307cb22.png)
+After logging in, the home page is dynamically changed.
 
+![Screenshot (242)](https://user-images.githubusercontent.com/86250122/216404420-d64e7257-07a9-44cb-8c91-e9b5be05aea9.png)
+![Screenshot (244)](https://user-images.githubusercontent.com/86250122/216404648-2985b43a-9692-4422-a71a-600c9916fbe9.png)
+
+The Prediction section of the app.
 
 
