@@ -40,7 +40,42 @@ Note: The video may not play always due to some browsers not able to run it.
 
 The navbar has the mapping to all the pages of the site along with hover animations. If the user is already logged in, they may see that the login is changed to logout button on the screen.
 
+![Screenshot (227)](https://user-images.githubusercontent.com/86250122/216402700-d8ff1a58-4b6e-49dd-a31d-08b4263ccd44.png)
 
+The landing page is divided into 4 pages connected through a scroll.
+
+![Screenshot (228)](https://user-images.githubusercontent.com/86250122/216402811-333d4331-3621-4681-b6b7-a69e8f632071.png)
+
+The testimonials section has a carousel with many people's comments navigated through the radio buttons below.
+
+![Screenshot (230)](https://user-images.githubusercontent.com/86250122/216402992-feefcf61-6927-4618-a853-fe9183b3ab1d.png)
+
+![Screenshot (231)](https://user-images.githubusercontent.com/86250122/216403169-166e6404-8483-4d3a-8208-e35729b6699a.png)
+
+The featured properties section has some of the properties available along with cool css hover animations.
+
+![Screenshot (232)](https://user-images.githubusercontent.com/86250122/216403240-5eedb0b8-629d-49b1-a8fc-7d855bc2a8a0.png)
+![Screenshot (234)](https://user-images.githubusercontent.com/86250122/216403286-7e4a4e8c-56c1-4109-a5d6-368411d70c8e.png)
+
+These are the other pages of the site, given as an insigt on the landing page.
+
+![Screenshot (235)](https://user-images.githubusercontent.com/86250122/216403388-d7d4707c-25f2-40e8-92ca-64b94eea3f16.png)
+
+This is the portal to the ML model.
+
+![Screenshot (238)](https://user-images.githubusercontent.com/86250122/216403549-dc6cd448-91b3-4f8e-9028-66bf2a34a2e5.png)
+
+The user is required to be logged in to access the prediction functionality.
+
+![Screenshot (239)](https://user-images.githubusercontent.com/86250122/216403673-898c57fc-98a9-4c5a-9a82-8f3f39abf832.png)
+![Screenshot (240)](https://user-images.githubusercontent.com/86250122/216403897-7e3e5a83-1789-47ef-8a79-c88ee5b8f1b7.png)
+
+
+Login UI validation.
+
+![Screenshot (245)](https://user-images.githubusercontent.com/86250122/216403834-1c072d2a-d767-4f51-88a5-a8f90a277abc.png)
+
+If the user does not have an account, they can create one, which is stored in the backend.
 
 
 
